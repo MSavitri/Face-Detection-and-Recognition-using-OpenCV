@@ -1,6 +1,6 @@
 # Face-Detection-and-Recognition-using-OpenCV
 from sklearn.neighbors import KNeighborsClassifier import cv2 
-Step 1 : importing the K-Nearest Neighbors (KNN) classifier from scikit-learn and importing cv2, which is part of OpenCV for computer vision tasks. 
+# Step 1 : importing the K-Nearest Neighbors (KNN) classifier from scikit-learn and importing cv2, which is part of OpenCV for computer vision tasks. 
 K-Nearest Neighbors (KNN) is a simple, yet powerful, supervised machine learning algorithm commonly used for classification and regression tasks. It makes predictions based on the similarity of input data points to other data points in the training set.
 import pickle 
 Step 2 : The pickle module in Python is used to serialize (save) and deserialize (load) Python objects. Serialization is the process of converting a Python object into a byte stream, while deserialization is the reverse process. Here we use Deserialization
